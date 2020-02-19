@@ -8,4 +8,10 @@
 
 ### `npm run build`
 
-## Styles to come
+## TODO:
+
+`LOADING STATE`
+`STYLES`
+`AUDIO WEB API VISUALIZATION`
+`ERROR HANDLERS`
+`ERROR BOUNDARIES`
